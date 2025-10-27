@@ -1,32 +1,78 @@
-![banner](https://i.imgur.com/XXXXX.png)
+# 👋 Heyyo, I'm Tumbal
 
-# Hi there, I'm Hot 👋  
-💻 Informatics Student | 🌍 Smart City Enthusiast | ☕ Coder by day, dreamer by night
+💻 Informatics Student | 🚀 Tech Explorer | 🧠 Machine Learning & AI Enthusiast  
+✨ Passionate about building smart systems that blend creativity, logic, and design.
 
-### 🌱 Currently Learning:
-- AI & Machine Learning  
-- IoT Smart Systems  
-- Full-Stack Dev Stuff (React, Node.js, etc)
+---
 
-### 💬 Ask me about:
-- Embedded Systems
-- Database & SQL Tricks
-- Clean UI Frontend Projects
+### ⚙️ Coding Skills  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+</p>
 
-### ⚡ Tech Stack:
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+---
 
-![Tumbal's GitHub stats](https://github-readme-stats.vercel.app/api?username=tumbalakun&show_icons=true&theme=tokyonight)
+### 🧰 Tools I Use  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notepadplusplus/notepadplusplus-original.svg" width="40"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tumbalakun&layout=compact&theme=tokyonight)
+---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tumbalakun&theme=react-dark)
+### 🎨 Creative Tools  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/>
+  <img src="https://img.icons8.com/color/48/capcut.png" width="40"/>
+</p>
 
-### 🎧 Currently vibing to:
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/USERNAME)
+---
 
-> “Code like there’s no bug. Debug like there’s no tomorrow.” 😎
+### 🧠 Data & Database  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="40"/>
+</p>
+
+---
+
+### 🧩 Office & Productivity  
+<p align="left">
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/microsoft-word-2019--v1.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" width="40"/>
+</p>
+
+---
+
+### 🎯 Focus Areas  
+> Machine Learning · Deep Learning · Artificial Intelligence · Web Development · Marketing  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tumbalakun&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tumbalakun&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+> “Build. Break. Learn. Repeat.” 🚀
