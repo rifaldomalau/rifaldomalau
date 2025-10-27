@@ -1,4 +1,4 @@
-<table width="100%">
+<table width="100%" border=0>
   <tr>
     <td align="left">
       <a href="https://git.io/typing-svg">
@@ -7,7 +7,6 @@
     </td>
     <td align="right">
       <img src="https://komarev.com/ghpvc/?username=tumbalakun&color=blueviolet&style=flat" alt="Visitor Count"/><br>
-      <sub>Visited ✨</sub>
     </td>
   </tr>
 </table>
