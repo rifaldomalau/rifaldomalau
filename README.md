@@ -25,7 +25,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/>
-  <img src="notepadpp.png width="40"/>
+  <img src="notepadpp.png" width="40"/>
   
 </p>
 
