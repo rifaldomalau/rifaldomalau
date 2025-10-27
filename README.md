@@ -84,3 +84,16 @@
 ---
 
 > “Build. Break. Learn. Repeat.” 🚀
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=tumbalakun&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tumbalakun&theme=react-dark)
+![Trophy](https://github-profile-trophy.vercel.app/?username=tumbalakun&theme=tokyonight&no-frame=true&row=1&column=6)
+![Visitor Count](https://komarev.com/ghpvc/?username=tumbalakun&color=blueviolet&style=flat)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+![snake gif](https://github.com/tumbalakun/tumbalakun/blob/output/github-contribution-grid-snake.svg)
+![Metrics](https://metrics.lecoq.io/tumbalakun?template=classic&base=header,activity,community,repositories&config.timezone=Asia%2FJakarta)
+![Meme](https://randommeme-five.vercel.app/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tumbalakun&repo=smart-apartment&theme=tokyonight)](https://github.com/tumbalakun/smart-apartment)
+
