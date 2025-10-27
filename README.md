@@ -1,4 +1,4 @@
-<table width="100%" border=0>
+<table width="100%" border="0">
   <tr>
     <td align="left">
       <a href="https://git.io/typing-svg">
@@ -89,7 +89,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tumbalakun&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tumbalakun&show_icons=true&theme=transparent" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tumbalakun&layout=compact&theme=transparent" height="180"/>
 </p>
 
