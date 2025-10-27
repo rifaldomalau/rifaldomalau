@@ -5,9 +5,11 @@
     </a>
   </div>
   <div style="text-align: right;">
-    <img src="https://komarev.com/ghpvc/?username=tumbalakun&color=blueviolet&style=flat" alt="Visitor Count"/>
+    <img src="https://komarev.com/ghpvc/?username=tumbalakun&color=blueviolet&style=flat" alt="Visitor Count"/><br>
+    <sub>Visited ✨</sub>
   </div>
 </div>
+
 
 💻 Informatics Student | 🚀 Tech Explorer | 🧠 Machine Learning & AI Enthusiast  
 ✨ Passionate about building smart systems that blend creativity, logic, and design.
@@ -91,7 +93,3 @@
 </p>
 
 ---
-
-![Code Snippet](https://quotes-github-readme.vercel.app/api?quote=Dikit+Dikit+Gabisa,+Makanya+Belajar.&author=Linus+Torvalds)
-
-
