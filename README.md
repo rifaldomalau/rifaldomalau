@@ -1,7 +1,10 @@
 # 👋 Heyyo, I'm Hot
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+there!+I'm+Hot;Coding+is+my+therapy+🔥)](https://git.io/typing-svg)
+🌍 Currently coding from **Yogyakarta, Indonesia**
 
 💻 Informatics Student | 🚀 Tech Explorer | 🧠 Machine Learning & AI Enthusiast  
 ✨ Passionate about building smart systems that blend creativity, logic, and design.
+![Visitor Count](https://komarev.com/ghpvc/?username=tumbalakun&color=blueviolet&style=flat)
 
 ---
 
@@ -83,23 +86,6 @@
 
 ---
 
-> “Build. Break. Learn. Repeat.” 🚀
-
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=tumbalakun&theme=tokyonight&no-frame=true&row=1&column=6)
-![Visitor Count](https://komarev.com/ghpvc/?username=tumbalakun&color=blueviolet&style=flat)
-<a href="https://app.daily.dev/tumbalakun">
-  <img src="https://api.daily.dev/devcards/yourID.png?r=xyz" width="400" alt="tumbalakun's Dev Card"/>
-</a>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+there!+I'm+Tumbal;Coding+is+my+therapy+🔥;Welcome+to+my+profile!)](https://git.io/typing-svg)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tumbalakun&layout=compact&theme=tokyonight)
-[![Stack Overflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/yourID)](https://stackoverflow.com/users/yourID)
-🌍 Currently coding from **Jakarta, Indonesia 🇮🇩**
-### 📝 Latest Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-![Code Snippet](https://quotes-github-readme.vercel.app/api?quote=Talk+is+cheap,+show+me+the+code.&author=Linus+Torvalds)
-![3D Graph](./profile-3d-contrib/profile-night-rainbow.svg)
-![Now Playing](https://readme-spotify-status.vercel.app/api/run-spotify-status?theme=dark)
+![Code Snippet](https://quotes-github-readme.vercel.app/api?quote=Dikit+Dikit+Gabisa,+Makanya+Belajar.&author=Linus+Torvalds)
 
 
