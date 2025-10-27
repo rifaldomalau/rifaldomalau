@@ -1,5 +1,5 @@
-# 👋 Heyyo, I'm Hot
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+there!+I'm+Hot;Coding+is+my+therapy+🔥)](https://git.io/typing-svg)
+
 🌍 Currently coding from **Yogyakarta, Indonesia**
 
 💻 Informatics Student | 🚀 Tech Explorer | 🧠 Machine Learning & AI Enthusiast  
