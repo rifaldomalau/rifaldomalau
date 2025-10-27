@@ -78,11 +78,3 @@
 > Machine Learning · Deep Learning · Artificial Intelligence · Web Development · Marketing  
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tumbalakun&show_icons=true&theme=transparent" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tumbalakun&layout=compact&theme=transparent" height="180"/>
-</p>
-
----
