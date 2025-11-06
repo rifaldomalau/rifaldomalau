@@ -1,11 +1,10 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=tumbalakun&color=blueviolet&style=flat" alt="Visitor Count"/>
+  ![Badge](https://img.shields.io/badge/Code%20With-coffee-ff69b4)
+  ![Badge](https://img.shields.io/badge/Total%20Projects-9-blue)
 </p>
 
-![Badge](https://img.shields.io/badge/Code%20With-coffee-ff69b4)
-![Badge](https://img.shields.io/badge/Total%20Projects-9-blue)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=rifaldomalau&theme=transparent&no-frame=true&no-bg=true)
+![Trophy](https://github-profile-trophy.vercel.app/?username=rifaldomalau&theme=onedark&no-frame=true&rank=S,AAA,AA,A)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=rifaldomalau&theme=onedark)
 
