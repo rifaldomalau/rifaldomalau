@@ -1,6 +1,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=rifaldomalau)
-![Badge](https://img.shields.io/badge/Code%20With-coffee-ff69b4)
 ![Badge](https://img.shields.io/badge/Total%20Projects-9-blue)
+![Badge](https://img.shields.io/badge/Code%20With-coffee☕-ff69b4)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=rifaldomalau&theme=onedark&no-frame=true&rank=S,AAA,AA,A)
 
