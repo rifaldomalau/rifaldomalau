@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=tumbalakun&color=blueviolet&style=flat" alt="Visitor Count"/>
 </p>
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=USERNAME&layout=compact&theme=transparent)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rifaldomalau&layout=compact&theme=transparent)
 
 
 ![Metrics](https://github-readme-metrics.vercel.app/api?username=rifaldomalau&template=classic&base=header,activity,community,repositories&config.timezone=Asia/Jakarta)
