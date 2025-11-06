@@ -7,9 +7,9 @@
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=rifaldomalau&theme=transparent&no-frame=true&no-bg=true)
 
-![GitHub Streak](https://streak-stats.vercel.app/?user=rifaldomalau&theme=transparent)
+![Trophy](https://github-profile-trophy.vercel.app/?username=rifaldomalau&theme=onedark)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rifaldomalau&theme=transparent)
+![GitHub Streak](https://streak-stats.vercel.app/?user=rifaldomalau&theme=transparent)
 
 
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+there!+I'm+Hot;Coding+is+my+therapy+🔥" alt="Typing SVG"/>
