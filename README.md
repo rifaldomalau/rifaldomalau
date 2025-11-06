@@ -4,6 +4,7 @@
 
 ![Badge](https://img.shields.io/badge/code%20with-love-ff69b4)
 ![Badge](https://img.shields.io/badge/projects-23-blue)
+
 ![GitHub Contributions](https://github-contributions.vercel.app/api/v1/rifaldomalau)
 
 ![GitHub Streak](https://streak-stats.vercel.app/?user=rifaldomalau&theme=transparent)
