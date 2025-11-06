@@ -1,9 +1,6 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=tumbalakun&color=blueviolet&style=flat" alt="Visitor Count"/>
-  
+  <img src="https://komarev.com/ghpvc/?username=rifaldomalau&color=blueviolet&style=flat" alt="Visitor Count"/>
   ![Badge](https://img.shields.io/badge/Code%20With-coffee-ff69b4)
   ![Badge](https://img.shields.io/badge/Total%20Projects-9-blue)
-</p>
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=rifaldomalau&theme=onedark&no-frame=true&rank=S,AAA,AA,A)
 
