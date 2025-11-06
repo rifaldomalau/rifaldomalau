@@ -1,15 +1,12 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=tumbalakun&color=blueviolet&style=flat" alt="Visitor Count"/>
+  
   ![Badge](https://img.shields.io/badge/Code%20With-coffee-ff69b4)
+  
   ![Badge](https://img.shields.io/badge/Total%20Projects-9-blue)
 </p>
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=rifaldomalau&theme=onedark&no-frame=true&rank=S,AAA,AA,A)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=rifaldomalau&theme=onedark)
-
-![GitHub Streak](https://streak-stats.vercel.app/?user=rifaldomalau&theme=transparent)
-
 
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+there!+I'm+Hot;Coding+is+my+therapy+🔥" alt="Typing SVG"/>
 
@@ -90,4 +87,4 @@
 
 ![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rifaldomalau&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifaldomalau&layout=compact&theme=transparent)
-
+![GitHub Streak](https://streak-stats.vercel.app/?user=rifaldomalau&theme=dark)
