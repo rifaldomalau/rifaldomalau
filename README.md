@@ -83,5 +83,5 @@
 ---
 
 ![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rifaldomalau&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifaldomalau&layout=compact&theme=transparent)
-![GitHub Streak](https://streak-stats.vercel.app/?user=rifaldomalau&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifaldomalau&layout=compact&theme=transparent&hide_border=true)
+![GitHub Streak](https://streak-stats.vercel.app/?user=rifaldomalau&theme=transparent&hide_border=true)
