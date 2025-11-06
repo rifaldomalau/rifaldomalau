@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=tumbalakun&color=blueviolet&style=flat" alt="Visitor Count"/>
 </p>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=transparent)
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=SPOTIFY_USERNAME&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)
 
 ![Metrics](https://github-readme-metrics.vercel.app/api?username=rifaldomalau&template=classic&base=header,activity,community,repositories&config.timezone=Asia/Jakarta)
 
