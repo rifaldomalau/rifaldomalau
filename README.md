@@ -2,6 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=tumbalakun&color=blueviolet&style=flat" alt="Visitor Count"/>
 </p>
 
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=transparent)
+
 ![Metrics](https://github-readme-metrics.vercel.app/api?username=rifaldomalau&template=classic&base=header,activity,community,repositories&config.timezone=Asia/Jakarta)
 
 ![GitHub Streak](https://streak-stats.vercel.app/?user=rifaldomalau&theme=transparent)
