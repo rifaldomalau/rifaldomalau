@@ -2,6 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=tumbalakun&color=blueviolet&style=flat" alt="Visitor Count"/>
 </p>
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=rifaldomalau&theme=transparent)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rifaldomalau&theme=transparent)
 
 
