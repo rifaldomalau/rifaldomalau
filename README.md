@@ -4,9 +4,9 @@
 ![Badge](https://img.shields.io/badge/Total%20Projects-9-blue)
 ![Badge](https://img.shields.io/badge/Code%20With-coffee%20☕-C4A484)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=rifaldomalau&theme=onedark&no-frame=true&rank=S,AAA,AA,A)
-
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+there!+I'm+Hot;Coding+is+my+therapy+🔥" alt="Typing SVG"/>
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=rifaldomalau&theme=onedark&no-frame=true&rank=S,AAA,AA,A)
 
 💻 Informatics Student | 🚀 Tech Explorer | 🧠 Machine Learning & AI Enthusiast  
 ✨ Passionate about building smart systems that blend creativity, logic, and design.
