@@ -3,7 +3,7 @@
 </p>
 
 ![Badge](https://img.shields.io/badge/code%20with-coffee-ff69b4)
-![Badge](https://img.shields.io/badge/total-projects-23-blue)
+![Badge](https://img.shields.io/badge/total%20projects-23-blue)
 
 ![GitHub Contributions](https://github-contributions.vercel.app/api/v1/rifaldomalau)
 
