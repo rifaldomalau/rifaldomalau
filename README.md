@@ -80,3 +80,5 @@
 ---
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rifaldomalau&show_icons=true&bg_color=00000000)
+![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rifaldomalau&theme=transparent)
+![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rifaldomalau&theme=transparent)
