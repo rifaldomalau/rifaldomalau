@@ -2,7 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=tumbalakun&color=blueviolet&style=flat" alt="Visitor Count"/>
 </p>
 
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=DoSpot&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=USERNAME&layout=compact&theme=transparent)
+
 
 ![Metrics](https://github-readme-metrics.vercel.app/api?username=rifaldomalau&template=classic&base=header,activity,community,repositories&config.timezone=Asia/Jakarta)
 
