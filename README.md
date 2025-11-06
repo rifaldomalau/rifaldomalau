@@ -4,11 +4,15 @@
 ![Badge](https://img.shields.io/badge/Total%20Projects-9-blue)
 ![Badge](https://img.shields.io/badge/Code%20With-coffee%20☕-C4A484)
 
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+there!+I'm+Hot;Coding+is+my+therapy+🔥" alt="Typing SVG"/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+there!+I'm+Hot;Coding+is+my+therapy+🔥" alt="Typing SVG"/>
+  <h2>💻 Informatics Student | 🚀 Tech Explorer | 🧠 Machine Learning & AI Enthusiast</h2>
+  <p>✨ Passionate about building smart systems that blend creativity, logic, and design.</p>
+</div>
 
-💻 Informatics Student | 🚀 Tech Explorer | 🧠 Machine Learning & AI Enthusiast  
-✨ Passionate about building smart systems that blend creativity, logic, and design.
+---
 
+### 🏆 GitHub Trophy
 ![Trophy](https://github-profile-trophy.vercel.app/?username=rifaldomalau&theme=onedark&no-frame=true&rank=S,AAA,AA,A)
 
 ---
@@ -83,6 +87,7 @@
 
 ---
 
+### 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.vercel.app/?user=rifaldomalau&theme=dark&hide_border=true)
 
 ![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rifaldomalau&theme=transparent)
