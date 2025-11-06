@@ -2,8 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=tumbalakun&color=blueviolet&style=flat" alt="Visitor Count"/>
 </p>
 
-![Badge](https://img.shields.io/badge/code%20with-coffee-ff69b4)
-![Badge](https://img.shields.io/badge/total%20projects-23-blue)
+![Badge](https://img.shields.io/badge/Code%20With-coffee-ff69b4)
+![Badge](https://img.shields.io/badge/Total%20Projects-9-blue)
 
 ![GitHub Contributions](https://github-contributions.vercel.app/api/v1/rifaldomalau)
 
