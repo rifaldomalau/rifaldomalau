@@ -5,7 +5,7 @@
 ![Badge](https://img.shields.io/badge/Code%20With-coffee-ff69b4)
 ![Badge](https://img.shields.io/badge/Total%20Projects-9-blue)
 
-![GitHub Contributions](https://github-contributions.vercel.app/api/v1/rifaldomalau)
+![Trophy](https://github-profile-trophy.vercel.app/?username=rifaldomalau&theme=transparent&no-frame=true&no-bg=true)
 
 ![GitHub Streak](https://streak-stats.vercel.app/?user=rifaldomalau&theme=transparent)
 
