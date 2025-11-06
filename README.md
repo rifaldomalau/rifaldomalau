@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=tumbalakun&color=blueviolet&style=flat" alt="Visitor Count"/>
 </p>
 
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=rifaldomalau&theme=onestar&no-frame=true&no-bg=true)
 
 ![GitHub Streak](https://streak-stats.vercel.app/?user=rifaldomalau&theme=transparent)
 
