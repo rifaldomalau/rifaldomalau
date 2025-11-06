@@ -3,6 +3,7 @@
 </p>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rifaldomalau&theme=transparent)
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rifaldomalau&theme=transparent)
 
 
