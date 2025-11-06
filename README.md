@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=tumbalakun&color=blueviolet&style=flat" alt="Visitor Count"/>
 </p>
 
-![Snake animation](https://github.com/rifaldomalau/rifaldomalau/blob/output/github-contribution-grid-snake.svg)
+![GitHub World Map](https://github.com/ashutosh00710/github-readme-activity-graph/blob/main/images/example.png)
 
 ![GitHub Streak](https://streak-stats.vercel.app/?user=rifaldomalau&theme=transparent)
 
