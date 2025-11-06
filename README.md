@@ -1,3 +1,5 @@
+<img src="https://github.com/rifaldomalau/rifaldomalau/blob/main/banner.png" alt="GitHub Banner" width="100%">
+
 ![Profile views](https://komarev.com/ghpvc/?username=rifaldomalau)
 ![Badge](https://img.shields.io/badge/Total%20Projects-9-blue)
 ![Badge](https://img.shields.io/badge/Code%20With-coffee%20☕-C4A484)
