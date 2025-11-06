@@ -83,4 +83,7 @@
 ![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rifaldomalau&theme=transparent)
 ![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rifaldomalau&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifaldomalau&layout=compact)
+![Top Langs by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rifaldomalau&theme=transparent)
+![Top Langs by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rifaldomalau&theme=transparent)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rifaldomalau&theme=transparent)
 
