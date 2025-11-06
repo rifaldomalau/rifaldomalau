@@ -2,7 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=tumbalakun&color=blueviolet&style=flat" alt="Visitor Count"/>
 </p>
 
-![GitHub World Map](https://github.com/ashutosh00710/github-readme-activity-graph/blob/main/images/example.png)
+![Metrics](https://github-readme-metrics.vercel.app/api?username=rifaldomalau&template=classic&config.timezone=Asia/Jakarta)
+
 
 ![GitHub Streak](https://streak-stats.vercel.app/?user=rifaldomalau&theme=transparent)
 
