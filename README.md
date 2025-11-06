@@ -79,7 +79,6 @@
 
 ---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rifaldomalau&show_icons=true&bg_color=00000000)
 ![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rifaldomalau&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifaldomalau&layout=compact&theme=transparent)
 ![Top Langs by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rifaldomalau&theme=transparent)
