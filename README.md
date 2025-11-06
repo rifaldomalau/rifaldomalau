@@ -2,7 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=tumbalakun&color=blueviolet&style=flat" alt="Visitor Count"/>
 </p>
 
-![Metrics](https://github-readme-metrics.vercel.app/api?username=rifaldomalau&template=classic&config.timezone=Asia/Jakarta)
+![Badge](https://img.shields.io/badge/code%20with-love-ff69b4)
+![Badge](https://img.shields.io/badge/projects-23-blue)
 
 
 ![GitHub Streak](https://streak-stats.vercel.app/?user=rifaldomalau&theme=transparent)
