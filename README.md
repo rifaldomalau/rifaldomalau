@@ -1,17 +1,6 @@
-## Hi there 👋
-![Profile views](https://komarev.com/ghpvc/?username=rifaldomalau&label=Visitors&color=00bfff&style=flat-square)
-
-![Profile views](https://komarev.com/ghpvc/?username=rifaldomalau&label=Visitors&color=00bfff&style=flat-square)
-
-![Profile views](https://komarev.com/ghpvc/?username=rifaldomalau&label=Profile%20Views&color=blue&style=flat-square)
-
-![Profile views](https://komarev.com/ghpvc/?username=rifaldomalau&label=Profile%20views&color=0e75b6&style=flat)
-
 ![Profile views](https://komarev.com/ghpvc/?username=rifaldomalau)
-
-  
-  ![Badge](https://img.shields.io/badge/Code%20With-coffee-ff69b4)
-  ![Badge](https://img.shields.io/badge/Total%20Projects-9-blue)
+![Badge](https://img.shields.io/badge/Code%20With-coffee-ff69b4)
+![Badge](https://img.shields.io/badge/Total%20Projects-9-blue)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=rifaldomalau&theme=onedark&no-frame=true&rank=S,AAA,AA,A)
 
