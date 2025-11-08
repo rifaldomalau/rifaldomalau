@@ -13,7 +13,7 @@
 ---
 
 ### 🏆 GitHub Trophy
-![Trophy](https://github-profile-trophy.vercel.app/?username=rifaldomalau&theme=transparent&no-frame=true&rank=S,AAA,AA,A)
+![Trophy](https://github-profile-trophy.vercel.app/?username=rifaldomalau&theme=flat&no-frame=true&no-bg=true&margin-w=5)
 
 ---
 
