@@ -95,5 +95,3 @@
 
 ![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rifaldomalau&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifaldomalau&layout=compact&theme=transparent&hide_border=true)
-
-![GitHub Snake Light](https://raw.githubusercontent.com/rifaldomalau/rifaldomalau/output/github-contribution-grid-snake.svg)
