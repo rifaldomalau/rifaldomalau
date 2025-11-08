@@ -41,6 +41,8 @@
   <img src="notepadpp.png" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="40"/>
   <img src="xampp.png" width="40"/>
+  <img src="laragon.png" width="40"/> 
+  <img src="dbngin.png" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   <img src="laravelherd.png" width="40"/>
@@ -90,5 +92,3 @@
 ### 📊 GitHub Stats
 ![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rifaldomalau&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifaldomalau&layout=compact&theme=transparent&hide_border=true)
-
----
