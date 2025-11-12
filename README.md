@@ -86,7 +86,7 @@
 ---
 
 ### 🎯 Focus Areas  
-> Machine Learning · Deep Learning · Artificial Intelligence · Web Development · Marketing  
+> Machine Learning · Deep Learning · Artificial Intelligence · Web Development · Marketing · Data Analytics
 
 ---
 
