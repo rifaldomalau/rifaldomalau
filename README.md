@@ -106,3 +106,8 @@
 ### 📊 GitHub Stats
 ![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rifaldomalau&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifaldomalau&layout=compact&theme=transparent&hide_border=true)
+
+---
+
+🎶 Listening : [🍃 “Night Changes” – One Direction](https://open.spotify.com/track/1dkSwb8vT0kNj1Tgn8WQ9q?si=d5caa1ae4d2b49e2)
+
