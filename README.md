@@ -4,7 +4,6 @@
 ![Badge](https://img.shields.io/badge/Total%20Public%20Projects-9-green)
 ![Badge](https://img.shields.io/badge/Total%20Hidden%20Projects-12-yellow)
 ![Badge](https://img.shields.io/badge/Total%20Dump%20Projects-9-red)
-![Badge](https://img.shields.io/badge/Code%20With-coffee%20☕-C4A484)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-☕-ff813f?style=flat-square)](https://buymeacoffee.com/bunghot)
 
 <div align="center">
