@@ -5,6 +5,7 @@
 ![Badge](https://img.shields.io/badge/Total%20Hidden%20Projects-12-yellow)
 ![Badge](https://img.shields.io/badge/Total%20Dump%20Projects-9-red)
 ![Badge](https://img.shields.io/badge/Code%20With-coffee%20☕-C4A484)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-☕-ff813f?style=flat-square)](https://buymeacoffee.com/bunghot)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+there!+I'm+Hot;Coding+is+my+therapy+🔥" alt="Typing SVG"/>
