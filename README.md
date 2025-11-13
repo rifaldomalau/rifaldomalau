@@ -111,3 +111,20 @@
 
 🎶 Listening : [🍃 “Night Changes” – One Direction](https://open.spotify.com/track/1dkSwb8vT0kNj1Tgn8WQ9q?si=d5caa1ae4d2b49e2)
 
+<p align="center">
+  <a href="https://open.spotify.com/track/1dkSwb8vT0kNj1Tgn8WQ9q?si=d5caa1ae4d2b49e2" target="_blank">
+    <img src="https://i.scdn.co/image/ab67616d0000b2732a8266e84f7e4c24c189e51c" width="200" style="border-radius: 15px;" alt="Kaulah Kamuku cover">
+  </a><br>
+  <img src="https://media.giphy.com/media/2gtoSIzdrSMFO/giphy.gif" width="120" alt="equalizer playing"><br>
+  <b>🎶 Kaulah Kamuku – Fatin ft. Mikha Angelo</b>
+</p>
+
+<p align="center">
+  <a href="https://open.spotify.com/track/1dkSwb8vT0kNj1Tgn8WQ9q?si=d5caa1ae4d2b49e2" target="_blank">
+    <img src="https://i.scdn.co/image/ab67616d0000b2732a8266e84f7e4c24c189e51c" width="180" alt="Kaulah Kamuku cover" style="border-radius:10px;">
+  </a>
+  <br>
+  <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="100" alt="music bars">
+  <br>
+  <sub>🎧 Currently playing: <b>Kaulah Kamuku – Fatin ft. Mikha Angelo</b></sub>
+</p>
