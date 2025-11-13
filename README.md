@@ -114,7 +114,6 @@
 <p align="center">
   
   <a href="https://open.spotify.com/track/1dkSwb8vT0kNj1Tgn8WQ9q?si=d5caa1ae4d2b49e2" target="_blank">
-    
     <img src="https://i.scdn.co/image/ab67616d0000b2732a8266e84f7e4c24c189e51c" width="200" style="border-radius: 15px;" alt="Kaulah Kamuku cover">
   
   </a><br>
