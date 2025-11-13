@@ -4,29 +4,10 @@
 ![Badge](https://img.shields.io/badge/Total%20Public%20Projects-9-green)
 ![Badge](https://img.shields.io/badge/Total%20Hidden%20Projects-13-yellow)
 ![Badge](https://img.shields.io/badge/Total%20Dump%20Projects-9-red)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20me%20a-coffee☕-pink?style=flat-square)](https://buymeacoffee.com/bunghot)
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/USERNAME" target="_blank">
+  <a href="https://www.buymeacoffee.com/bunghot" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Beli aku kopi" width="200" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/USERNAME" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Beli aku kopi" width="200" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/USERNAME" target="_blank">
-    ☕ <b>Beri aku kopi</b>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/☕-Beli%20aku%20kopi-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
   </a>
 </p>
 
