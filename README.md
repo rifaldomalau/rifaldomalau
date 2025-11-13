@@ -111,11 +111,8 @@
 
 <p align="center">
   <a href="https://open.spotify.com/track/1dkSwb8vT0kNj1Tgn8WQ9q?si=d5caa1ae4d2b49e2" target="_blank">
-    <img src="https://github.com/rifaldomalau/rifaldomalau/blob/main/song.gif" width="120" alt="equalizer playing">
-  </a>
-</p> 
-
-<p align="center">
+    <img src="https://github.com/rifaldomalau/rifaldomalau/blob/main/song.gif" width="190" alt="equalizer playing">
+  </a> 
   <a href="https://open.spotify.com/track/1dkSwb8vT0kNj1Tgn8WQ9q?si=d5caa1ae4d2b49e2" target="_blank">
     🎶 Kaulah Kamuku – Fatin ft. Mikha Angelo
   </a>
