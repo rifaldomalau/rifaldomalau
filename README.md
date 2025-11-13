@@ -2,7 +2,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=rifaldomalau)
 ![Badge](https://img.shields.io/badge/Total%20Public%20Projects-9-green)
-![Badge](https://img.shields.io/badge/Total%20Hidden%20Projects-12-red)
+![Badge](https://img.shields.io/badge/Total%20Hidden%20Projects-12-yellow)
+![Badge](https://img.shields.io/badge/Total%20Dump%20Projects-9-red)
 ![Badge](https://img.shields.io/badge/Code%20With-coffee%20☕-C4A484)
 
 <div align="center">
