@@ -2,7 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=rifaldomalau)
 ![Badge](https://img.shields.io/badge/Total%20Public%20Projects-9-green)
-![Badge](https://img.shields.io/badge/Total%20Hidden%20Projects-12-yellow)
+![Badge](https://img.shields.io/badge/Total%20Hidden%20Projects-13-yellow)
 ![Badge](https://img.shields.io/badge/Total%20Dump%20Projects-9-red)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20me%20a-coffee☕-pink?style=flat-square)](https://buymeacoffee.com/bunghot)
 
