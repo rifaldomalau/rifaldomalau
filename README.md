@@ -109,9 +109,11 @@
 
 ---
 
+<div align="center">
+  <h2 border=0>🎧 Now Playing</h2>
+</div>
 
 <p align="center">
-  <h2 border=0>🎧 Now Playing</h2>
   <a href="https://open.spotify.com/track/1dkSwb8vT0kNj1Tgn8WQ9q?si=d5caa1ae4d2b49e2" target="_blank">
     <img src="https://github.com/rifaldomalau/rifaldomalau/blob/main/song.gif" width="390" alt="equalizer playing">
   </a>
