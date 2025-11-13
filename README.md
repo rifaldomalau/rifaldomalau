@@ -110,7 +110,7 @@
 ---
 
 <div align="center">
-  <p style="font-size:1.5em; font-weight:bold;">🎧 Now Playing</p>
+  <h3 style="border:0; text-decoration:none;">🎧 Now Playing</h3>
 </div>
 
 <p align="center">
