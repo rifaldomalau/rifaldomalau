@@ -115,7 +115,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/track/1dkSwb8vT0kNj1Tgn8WQ9q?si=d5caa1ae4d2b49e2" target="_blank">
-    <img src="https://github.com/rifaldomalau/rifaldomalau/blob/main/song.gif" width="390" alt="equalizer playing">
+    <img src="https://github.com/rifaldomalau/rifaldomalau/blob/main/song.gif" width="250" alt="equalizer playing">
   </a>
   <br>
   <a href="https://open.spotify.com/track/1dkSwb8vT0kNj1Tgn8WQ9q?si=d5caa1ae4d2b49e2" target="_blank">
