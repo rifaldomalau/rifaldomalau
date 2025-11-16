@@ -11,7 +11,7 @@
 </div>
 
 <span style="display: inline-flex; align-items: center;">
-  <img src="https://yourhost.com/live-badge.gif" width="12" height="12" style="margin-right:4px; border-radius:50%;">
+  <img src="blink.gif" width="12" height="12" style="margin-right:4px; border-radius:50%;">
   <img src="https://img.shields.io/badge/LIVE%20STATISTICS-b30000?style=flat-square">
 </span>
 
