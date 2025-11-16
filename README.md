@@ -12,6 +12,9 @@
 ![Hidden Projects](https://img.shields.io/badge/19-yellow?label=%5BLIVE%5D%20Total%20Hidden%20Projects&style=flat-square)
 ![Hidden Projects](https://img.shields.io/badge/19-yellow?label=%5BLIVE%5D%20Total%20Hidden%20Projects&logo=github)
 
+![LIVE](https://img.shields.io/badge/LIVE-red?style=for-the-badge)
+![Hidden Projects](https://img.shields.io/badge/Total%20Hidden%20Projects-19-yellow?style=for-the-badge)
+
 
 
 <p align="center">
