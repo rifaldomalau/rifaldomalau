@@ -3,6 +3,8 @@
   
   
 <span align="center">
+  
+  ![LIVE](a.gif)
   <img src="blink.gif" width="19" height="19" style="margin-right:0px">
   
   ![LIVE](https://img.shields.io/badge/LIVE%20STATISTICS-b30000?style=flat-square)
