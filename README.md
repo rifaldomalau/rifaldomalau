@@ -1,17 +1,22 @@
 <img src="https://github.com/rifaldomalau/rifaldomalau/blob/main/banner.gif" alt="GitHub Banner" width="100%">
 
-  
-  
-<span align="center">
-  
-  ![LIVE](a.gif)
+<div align="center">
+  <img src="blink.gif" width="19" height="19" alt="LIVE">
   ![LIVE](https://img.shields.io/badge/LIVE%20STATISTICS-b30000?style=flat-square)
   ![Badge](https://img.shields.io/badge/Total%20Public%20Projects-9-green)
   ![Badge](https://img.shields.io/badge/20-yellow?label=Total%20Hidden%20Projects)
   ![Badge](https://img.shields.io/badge/Total%20Dump%20Projects-9-red)
   ![Profile views](https://komarev.com/ghpvc/?username=rifaldomalau)
-</span>
-<img src="https://img.shields.io/badge/LIVE%20STATISTICS-b30000?style=flat-square" width="100" height="19" alt="LIVE">
+</div>
+
+<div align="center">
+  <img src="blink.gif" width="19" height="19" alt="LIVE">
+  <img src="https://img.shields.io/badge/LIVE%20STATISTICS-b30000?style=flat-square" alt="LIVE">
+  <img src="https://img.shields.io/badge/Total%20Public%20Projects-9-green" alt="Public Projects">
+  <img src="https://img.shields.io/badge/Total%20Hidden%20Projects-20-yellow" alt="Hidden Projects">
+  <img src="https://img.shields.io/badge/Total%20Dump%20Projects-9-red" alt="Dump Projects">
+  <img src="https://komarev.com/ghpvc/?username=rifaldomalau" alt="Profile views">
+</div>
 
 
 
