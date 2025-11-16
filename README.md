@@ -10,7 +10,7 @@
 </div>
 
 <span style="display: inline-flex; align-items: center;">
-  <img src="blink.gif" width="12" height="24" style="margin-right:0px">
+  <img src="blink.gif" width="24" height="24" style="margin-right:0px">
   <img src="https://img.shields.io/badge/LIVE%20STATISTICS-b30000?style=flat-square">
 </span>
 
