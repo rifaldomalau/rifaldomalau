@@ -7,9 +7,8 @@
   <img src="https://img.shields.io/badge/Total%20Hidden%20Projects-20-yellow" alt="Hidden Projects">
   <img src="https://img.shields.io/badge/Total%20Dump%20Projects-9-red" alt="Dump Projects">
   <img src="https://komarev.com/ghpvc/?username=rifaldomalau" alt="Profile views">
+  <br>
 </div>
-
-
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/bunghot" target="_blank">
