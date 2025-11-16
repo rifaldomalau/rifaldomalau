@@ -2,8 +2,8 @@
 
 <div align="center">
   
+  ![LIVE STATISTICS](https://img.shields.io/badge/LIVE-b30000?style=flat-square)
   ![Profile views](https://komarev.com/ghpvc/?username=rifaldomalau)
-  ![LIVE](https://img.shields.io/badge/LIVE-b30000?style=flat-square)
   ![Badge](https://img.shields.io/badge/Total%20Public%20Projects-9-green)
   ![Badge](https://img.shields.io/badge/19-yellow?label=%5BLIVE%5D%20Total%20Hidden%20Projects)
   ![Badge](https://img.shields.io/badge/Total%20Dump%20Projects-9-red)
