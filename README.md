@@ -13,6 +13,7 @@
 </div>
 
 
+![LIVE](https://img.shields.io/badge/LIVE%20STATISTICS-b30000?style=flat-square&logoWidth=10)
 
 
 
