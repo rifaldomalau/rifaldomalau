@@ -3,19 +3,11 @@
 <div align="center">
   
   ![Profile views](https://komarev.com/ghpvc/?username=rifaldomalau)
+  ![LIVE](https://img.shields.io/badge/LIVE-red?style=for-the-badge)
   ![Badge](https://img.shields.io/badge/Total%20Public%20Projects-9-green)
   ![Badge](https://img.shields.io/badge/19-yellow?label=%5BLIVE%5D%20Total%20Hidden%20Projects)
   ![Badge](https://img.shields.io/badge/Total%20Dump%20Projects-9-red)
 </div>
-
-![Hidden Projects](https://img.shields.io/badge/19-1e3a8a?label=%5BLIVE%5D%20Total%20Hidden%20Projects)
-![Hidden Projects](https://img.shields.io/badge/19-yellow?label=%5BLIVE%5D%20Total%20Hidden%20Projects&style=flat-square)
-![Hidden Projects](https://img.shields.io/badge/19-yellow?label=%5BLIVE%5D%20Total%20Hidden%20Projects&logo=github)
-
-![LIVE](https://img.shields.io/badge/LIVE-red?style=for-the-badge)
-![Hidden Projects](https://img.shields.io/badge/Total%20Hidden%20Projects-19-yellow?style=for-the-badge)
-
-
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/bunghot" target="_blank">
