@@ -1,7 +1,6 @@
 <img src="https://github.com/rifaldomalau/rifaldomalau/blob/main/banner.gif" alt="GitHub Banner" width="100%">
 
 <div align="center">
-  <img src="blink.gif" width="12" height="24">
   
   ![LIVE](https://img.shields.io/badge/LIVE%20STATISTICS-b30000?style=flat-square)
   ![Badge](https://img.shields.io/badge/Total%20Public%20Projects-9-green)
@@ -11,7 +10,7 @@
 </div>
 
 <span style="display: inline-flex; align-items: center;">
-  <img src="blink.gif" width="12" height="12" style="margin-right:0px; border-radius:50%;">
+  <img src="blink.gif" width="12" height="24" style="margin-right:0px">
   <img src="https://img.shields.io/badge/LIVE%20STATISTICS-b30000?style=flat-square">
 </span>
 
