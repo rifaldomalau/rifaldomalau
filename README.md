@@ -2,16 +2,6 @@
 
 <div align="center">
   <img src="blink.gif" width="19" height="19" alt="LIVE">
-  
-  ![LIVE](https://img.shields.io/badge/LIVE%20STATISTICS-b30000?style=flat-square)
-  ![Badge](https://img.shields.io/badge/Total%20Public%20Projects-9-green)
-  ![Badge](https://img.shields.io/badge/20-yellow?label=Total%20Hidden%20Projects)
-  ![Badge](https://img.shields.io/badge/Total%20Dump%20Projects-9-red)
-  ![Profile views](https://komarev.com/ghpvc/?username=rifaldomalau)
-</div>
-
-<div align="center">
-  <img src="blink.gif" width="19" height="19" alt="LIVE">
   <img src="https://img.shields.io/badge/LIVE%20STATISTICS-b30000?style=flat-square" alt="LIVE">
   <img src="https://img.shields.io/badge/Total%20Public%20Projects-9-green" alt="Public Projects">
   <img src="https://img.shields.io/badge/Total%20Hidden%20Projects-20-yellow" alt="Hidden Projects">
