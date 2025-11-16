@@ -12,10 +12,7 @@
 <div align="center">
 
   <!-- Badge LIVE di atas -->
-  <img src="https://img.shields.io/badge/LIVE-red?style=flat-square&logo=livejournal&logoColor=white&labelWidth=200" />
-
-  <br/><br/>
-
+  <img src="https://img.shields.io/badge/LIVE-red?style=flat-square&logo=livejournal&logoColor=white&labelWidth=900" />
   <!-- Tiga badge di bawah -->
   <img src="https://img.shields.io/badge/Total%20Public%20Projects-9-green?style=flat-square" />
   <img src="https://img.shields.io/badge/%5BLIVE%5D%20Total%20Hidden%20Projects-19-yellow?style=flat-square" />
