@@ -1,8 +1,10 @@
 <img src="https://github.com/rifaldomalau/rifaldomalau/blob/main/banner.gif" alt="GitHub Banner" width="100%">
 
-<div align="center">
   <img src="blink.gif" width="19" height="19" style="margin-right:0px">
   
+<div align="center">
+  
+  ![LIVE](blink.gif)
   ![LIVE](https://img.shields.io/badge/LIVE%20STATISTICS-b30000?style=flat-square)
   ![Badge](https://img.shields.io/badge/Total%20Public%20Projects-9-green)
   ![Badge](https://img.shields.io/badge/20-yellow?label=Total%20Hidden%20Projects)
