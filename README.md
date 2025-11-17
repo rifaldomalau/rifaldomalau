@@ -1,5 +1,14 @@
 <img src="https://github.com/rifaldomalau/rifaldomalau/blob/main/banner.gif" alt="GitHub Banner" width="100%">
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rifaldomalau&theme=dracula)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rifaldomalau&theme=onedark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rifaldomalau&theme=monokai)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rifaldomalau&theme=gruvbox)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rifaldomalau&theme=tokyonight)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rifaldomalau&theme=nord)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rifaldomalau&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rifaldomalau&theme=ocean)
+
 <div align="center">
   <img src="blink.gif" width="19" height="19" alt="LIVE">
   <img src="https://img.shields.io/badge/LIVE%20STATISTICS-b30000?style=flat-square" alt="LIVE">
