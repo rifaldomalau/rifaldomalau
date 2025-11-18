@@ -17,7 +17,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+you!+I'm+Bung+Hot🔥+Your+Enemy;+1+Day+%201+Repo+%201+Coffee+%201+Step+Ahead" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+You!+I'm+Bung+Hot🔥+Your+Enemy;+1+Day+%201+Repo+%201+Coffee+%201+Step+Ahead" alt="Typing SVG"/>
 </div>
 
 <div align="center">
