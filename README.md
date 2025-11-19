@@ -12,7 +12,7 @@
 <br>
 <p align="center">
   <a href="https://www.buymeacoffee.com/bunghot" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-purple.png" alt="Beli aku kopi" width="200" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Beli aku kopi" width="200" />
   </a>
 </p>
 
