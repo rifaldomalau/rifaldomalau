@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/LIVE%20STATISTICS-b30000?style=flat-square" alt="LIVE">
   <img src="https://img.shields.io/badge/Total%20Public%20Projects-8-green" alt="Public Projects">
   <img src="https://img.shields.io/badge/Total%20Hidden%20Projects-24-yellow" alt="Hidden Projects">
-  <img src="https://img.shields.io/badge/Total%20Dump%20Projects-13-red" alt="Dump Projects">
+  <img src="https://img.shields.io/badge/Total%20Dump%20Projects-15-red" alt="Dump Projects">
   <img src="https://komarev.com/ghpvc/?username=rifaldomalau" alt="Profile views">
 </div>
 
