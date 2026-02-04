@@ -30,8 +30,6 @@
 ### 🏆 GitHub Trophy
 ![Trophy](https://github-profile-trophy.vercel.app/?username=rifaldomalau&theme=monokai&no-frame=true&no-bg=true&margin-w=5&rank=S,AAA,AA,A)
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ### ⚙️ Coding Skills  
